@@ -1,4 +1,4 @@
-# 3D Waves with Tailwind CSS (HTML & CSS)
+# 3D Waves with HTML & CSS (Tailwind CSS)
 
 This project demonstrates a captivating 3D wave animation built with HTML, Tailwind CSS. It leverages the power of Tailwind's utility classes and CSS animations to create a dynamic and visually striking effect.
 
