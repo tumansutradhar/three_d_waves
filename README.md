@@ -8,7 +8,7 @@ See the animation in action at [https://tumansutradhar-3d-waves.netlify.app/].
 
 ## Preview Image
 
-
+![3d Waves](https://github.com/tumansutradhar/3D-Waves/assets/121193864/9f6ac774-3d96-4387-a3bc-35877768788a)
 
 ## Features
 
