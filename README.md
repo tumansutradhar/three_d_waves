@@ -1,4 +1,4 @@
-![101](https://github.com/tumansutradhar/3D-Waves/assets/121193864/1fece019-58ee-49cc-afa9-25e90456d80f)![101](https://github.com/tumansutradhar/3D-Waves/assets/121193864/1fece019-58ee-49cc-afa9-25e90456d80f)![101](https://github.com/tumansutradhar/3D-Waves/assets/121193864/5bc8bb32-2390-4897-a7fa-8a7e2064a483)![101](https://github.com/tumansutradhar/3D-Waves/assets/121193864/5bc8bb32-2390-4897-a7fa-8a7e2064a483)# 3D Waves with HTML & CSS (Tailwind CSS)
+# 3D Waves with HTML & CSS (Tailwind CSS)
 
 This project demonstrates a captivating 3D wave animation built with HTML, Tailwind CSS. It leverages the power of Tailwind's utility classes and CSS animations to create a dynamic and visually striking effect.
 
@@ -9,8 +9,6 @@ See the animation in action at [https://tumansutradhar-3d-waves.netlify.app/].
 ## Preview Image
 
 ![101](https://github.com/tumansutradhar/3D-Waves/assets/121193864/e58dede8-72ab-4a47-8951-5896327bbda0)
-![101](https://github.com/tumansutradhar/3D-Waves/assets/121193864/e58dede8-72ab-4a47-8951-5896327bbda0)
-
 
 ## Features
 
