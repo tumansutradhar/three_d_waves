@@ -4,7 +4,7 @@ This project demonstrates a captivating 3D wave animation built with HTML, Tailw
 
 ## Live Preview
 
-See the animation in action at [https://tumansutradhar-3d-waves.netlify.app/].
+See the animation in action at [https://three-d-waves.netlify.app/].
 
 ## Preview Image
 
