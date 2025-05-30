@@ -6,10 +6,6 @@ This project demonstrates a captivating 3D wave animation built with HTML, Tailw
 
 See the animation in action at [https://three-d-waves.netlify.app/].
 
-## Preview Image
-
-![101](https://github.com/tumansutradhar/3D-Waves/assets/121193864/e58dede8-72ab-4a47-8951-5896327bbda0)
-
 ## Features
 
 - **Tailwind CSS Integration:** Streamlined development with Tailwind's pre-built utility classes.
